@@ -128,7 +128,7 @@
                 android:layout_height="60dp"
                 android:layout_gravity="center"
                 android:layout_marginTop="16dp"
-                android:background="@drawable/bg_social_button"
+                android:background="@drawable/bg_circle_button"
                 android:padding="12dp"
                 android:scaleType="fitCenter"
                 android:src="@drawable/wechat_icon" />
@@ -136,7 +136,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_gravity="center"
+                    android:layout_gravity="center"
                 android:layout_marginTop="8dp"
                 android:text="微信登录"
                 android:textColor="@color/text_secondary" />
