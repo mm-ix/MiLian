@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 系统颜色 -->
+    <color name="colorPrimary">#FF9FB2</color>
+    <color name="colorPrimaryDark">#E5899C</color>
+    <color name="colorAccent">#FF6B8B</color>
+    
+    <!-- 应用主题颜色 - 粉色系 -->
+    <color name="primary">#FF9FB2</color>
+    <color name="primary_dark">#E5899C</color>
+    <color name="primary_light">#FFD6E0</color>
+    <color name="accent">#FF6B8B</color>
+    
+    <!-- 粉色主题 -->
+    <color name="pink_primary">#FF9FB2</color>
+    <color name="pink_dark">#E5899C</color>
+    <color name="pink_light">#FFD6E0</color>
+    
+    <!-- 文本颜色 -->
+    <color name="text_primary">#333333</color>
+    <color name="text_secondary">#666666</color>
+    <color name="text_hint">#999999</color>
+    
+    <!-- 背景颜色 -->
+    <color name="background_light">#FFF5F7</color>
+    <color name="background_dark">#F8E6EA</color>
+    
+    <!-- 基础颜色 -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+    
+    <!-- 功能颜色 -->
+    <color name="success">#4CAF50</color>
+    <color name="warning">#FFC107</color>
+    <color name="error">#F44336</color>
+    <color name="info">#2196F3</color>
+    
+    <!-- 聊天气泡颜色 -->
+    <color name="bubble_sent">#FFCCD5</color>
+    <color name="bubble_received">#FFFFFF</color>
+</resources>

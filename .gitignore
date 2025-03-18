@@ -1,0 +1,94 @@
+# 构建应用程序输出
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# 构建文件
+*.dex
+*.class
+
+# 日志文件
+*.log
+
+# Android Studio导航编辑器临时文件
+.navigation/
+
+# Android Studio捕获的屏幕截图
+captures/
+
+# IntelliJ IDEA / Android Studio项目文件
+*.iml
+.idea/
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/assetWizardSettings.xml
+.idea/dictionaries
+.idea/libraries
+.idea/caches
+.idea/modules.xml
+.idea/navEditor.xml
+
+# 本地配置文件（sdk路径等）
+local.properties
+
+# Gradle文件
+.gradle/
+build/
+gradle-app.setting
+!gradle-wrapper.jar
+.gradletasknamecache
+
+# Proguard文件
+proguard/
+
+# Android Studio 3生成的文件
+.externalNativeBuild/
+.cxx/
+
+# Google服务（例如API密钥）
+google-services.json
+
+# Freeline
+freeline.py
+freeline/
+freeline_project_description.json
+
+# fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+fastlane/readme.md
+
+# 版本控制
+vcs.xml
+
+# lint
+lint/intermediates/
+lint/generated/
+lint/outputs/
+lint/tmp/
+
+# MacOS文件
+.DS_Store
+
+# Windows文件
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Keystore文件
+*.jks
+*.keystore
+
+# 外部原生构建文件夹
+.externalNativeBuild
+.cxx/
+
+# 谷歌服务（例如API密钥）
+google-services.json
+
+# 签名配置
+signing.properties
